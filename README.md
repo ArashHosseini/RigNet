@@ -11,7 +11,7 @@ On both platforms, we suggest to use conda virtual environment.
 
 #### For Linux user
 
-**[2020.23.13]** I have tested the code on Ubuntu 20.04, with cuda 11.1.1 + cudnn 8.0.5 and Python3.8 .
+**[2020.23.12]** I have tested the code on Ubuntu 20.04, with cuda 11.1.1 + cudnn 8.0.5 and Python3.8 .
 
 ```
 pip install torch==1.7.0+cu110 torchvision==0.8.1+cu110 torchaudio===0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
