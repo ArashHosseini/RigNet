@@ -22,7 +22,6 @@ sudo apt install python3-rtree
 pip install trimesh[easy]
 pip install open3d
 
-pip install torch-geometric
 pip install torch-scatter -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html
 pip install torch-sparse -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html
 pip install torch-cluster -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html
